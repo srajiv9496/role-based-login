@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-Welcome to the **Role-Based Login Backend**! This is a Node.js application that implements role-based authentication using JWT (JSON Web Tokens). Users can register, log in, and their assigned roles (either **admin** or **user**) determine their access to different routes. This application is deployed on [Render](https://render.com) and can be accessed at [https://role-based-login-backend-1.onrender.com](https://role-based-login-backend-1.onrender.com) for testing the API endpoints.
+Welcome to the **Role-Based Login Backend**! This is a Node.js application that implements role-based authentication using JWT (JSON Web Tokens). Users can register, log in, and their assigned roles (either **admin** or **user**) determine their access to different routes.
 
 ## ⭐ Features
 
@@ -38,7 +38,7 @@ To run this project locally, follow the steps below:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/akash-masram/role-based-login-backend.git
+   git clone https://github.com/srajiv9496/role-based-login-backend.git
    cd role-based-login-backend
 
 2. **Install Dependencies**:
