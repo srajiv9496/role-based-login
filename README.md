@@ -99,13 +99,7 @@ This application can be easily deployed on Render. Follow these steps for deploy
 5. **Deploy**:
 
    Click **Create Web Service** to begin the deployment.
-
-6. **Access Your Application**:
-
-   Once deployed, Render will provide a URL to access your live application.
-
-For detailed instructions, visit the [Render documentation](https://docs.render.com/).
-
+   
 
 ## 🧪 Testing the API
 
@@ -173,12 +167,3 @@ Here are the available API endpoints for this application:
      ```
    ![Login Screen](screenshots/user_panel.png)
 
-
-## 💬 Feedback and Support
-
-I truly value your input! If you encounter any issues or have suggestions for enhancements, please don't hesitate to reach out. Your feedback is crucial in making this project better for everyone.
-
-Thank you for your interest in the **Role-Based Login Backend**!
-
-# role-based-login
-# role-based-login
